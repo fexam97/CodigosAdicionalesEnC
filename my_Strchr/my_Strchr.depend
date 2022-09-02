@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662140548 source:c:\users\fer\desktop\my_strchr\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
