@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662165548 source:c:\users\fer\desktop\my_strcat\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
