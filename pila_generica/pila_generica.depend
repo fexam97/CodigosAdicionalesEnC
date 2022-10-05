@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1573566662 source:c:\users\maruu\desktop\pila_generica\pila_generica.c
+	"pila_generica.h"
+
+1573566662 c:\users\maruu\desktop\pila_generica\pila_generica.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1573566716 source:c:\users\maruu\desktop\pila_generica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila_generica.h"
+
+1664996355 source:c:\users\fer\desktop\c\practica\pila\pila_generica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila_generica.h"
+
+1664996607 c:\users\fer\desktop\c\practica\pila\pila_generica\pila_generica.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1573566662 source:c:\users\fer\desktop\c\practica\pila\pila_generica\pila_generica.c
+	"pila_generica.h"
+
