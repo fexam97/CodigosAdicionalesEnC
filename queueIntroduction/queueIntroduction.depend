@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1665148115 source:c:\users\fer\desktop\c\queueintroduction\funciones.c
+	"funciones.h"
+
+1665148095 c:\users\fer\desktop\c\queueintroduction\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1665148049 source:c:\users\fer\desktop\c\queueintroduction\main.c
+	"funciones.h"
+
