@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1664312703 source:c:\users\54113\desktop\progra\c\clases\clasepila\pila.c
+	"pila.h"
+
+1664311358 c:\users\54113\desktop\progra\c\clases\clasepila\pila.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1664312682 source:c:\users\54113\desktop\progra\c\clases\clasepila\main.c
+	"pila.h"
+
+1664312684 source:c:\users\fer\desktop\c\clasepila\main.c
+	"pila.h"
+
+1664311360 c:\users\fer\desktop\c\clasepila\pila.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1665145061 source:c:\users\fer\desktop\c\clasepila\pila.c
+	"pila.h"
+
